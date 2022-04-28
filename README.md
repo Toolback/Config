@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">I'm a passionate Blockchain Developer. Everyday is a learning day for me.</h3>
 
-- 🌱 I am currently the most active in learning **Smart Contract Money Lego**
+- 🌱 I currently spend most of my time learning about **Smart Contract Money Lego**
 
 - 📫 How to reach me **julien.rnlt@gmail.com**
 
